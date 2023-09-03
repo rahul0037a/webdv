@@ -74,8 +74,9 @@ body{
     line-height: 2;
 }
 .mountain{
-    display: block;
-    margin: 50px auto 0 auto;
+    display:flex;
+    margin: 50px auto 30px auto;
+    padding-bottom: 5px;
     max-width: 70%;
     max-height: 70%;
 }
