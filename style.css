@@ -1,4 +1,4 @@
-https://github.com/rahul0037a/webdv/blob/main/style.cssbody{
+body{
     background-color: aquamarine;
     margin: 0;
     text-align: center;
@@ -36,13 +36,6 @@ h2{
     font-size: 300%;
 }
 
-.middlecontainer{
-
-}
-
-
-.bottomcontainer{
-}
 body{
     margin-bottom: 100px;
 }
