@@ -83,7 +83,8 @@
     }
     .desc{
         display: block;
+        margin: auto;
     }
     .name{
-        margin:auto auto auto auto;
+        margin: auto auto auto auto;
     }
